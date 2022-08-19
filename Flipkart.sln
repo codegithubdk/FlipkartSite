@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flipkart", "Flipkart\Flipkart.csproj", "{6C33F5EB-4835-4C7B-8773-4652464411AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C33F5EB-4835-4C7B-8773-4652464411AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C33F5EB-4835-4C7B-8773-4652464411AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C33F5EB-4835-4C7B-8773-4652464411AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C33F5EB-4835-4C7B-8773-4652464411AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DF5FACA-BC8B-423F-B909-142739CBE778}
+	EndGlobalSection
+EndGlobal
